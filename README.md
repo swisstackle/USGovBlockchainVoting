@@ -26,7 +26,7 @@ This proposal outlines a blockchain-based direct democracy system that integrate
 - Deploy LLMs on the blockchain using Giza Agents stack for transparency and verifiability
 
 ### 3.3 Zero-Knowledge Passport Verification
-- Implement Rarimo's zero-knowledge passport technology for voter verification
+- Implement Rarimo's zero-knowledge passport technology for voter verification to avoid double voting
 - Use zero-knowledge proofs to verify voter eligibility without revealing personal information
 
 ### 3.4 RariMe Mobile App
