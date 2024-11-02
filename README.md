@@ -20,29 +20,25 @@ This proposal outlines a blockchain-based direct democracy system that integrate
 - Utilize the Rarimo blockchain protocol for secure and transparent voting and proposal submission
 - Implement smart contracts for voting, proposal submission, and constitutional checks
 
-### 3.2 Constitutional Framework
-- Encode core constitutional principles as smart contracts on the blockchain
-- Include protections for fundamental rights and minority safeguards
-
-### 3.3 AI-Assisted Proposal Screening
+### 3.2 AI-Assisted Proposal Screening
 - Integrate Large Language Models (LLMs) using Giza's ZKML technology for initial proposal analysis
 - Screen proposals for potential constitutional violations
 - Deploy LLMs on the blockchain using Giza Agents stack for transparency and verifiability
 
-### 3.4 Zero-Knowledge Passport Verification
+### 3.3 Zero-Knowledge Passport Verification
 - Implement Rarimo's zero-knowledge passport technology for voter verification
 - Use zero-knowledge proofs to verify voter eligibility without revealing personal information
 
-### 3.5 RariMe Mobile App
+### 3.4 RariMe Mobile App
 - Utilize the RariMe app for passport scanning and local passport data storage
 - Generate zero-knowledge proofs of identity for voting and proposal submission
 
-### 3.6 Voting Mechanism
+### 3.5 Voting Mechanism
 - Develop a secure, blockchain-based voting system on the Rarimo protocol
 - Implement different voting thresholds based on proposal type
 - Use zero-knowledge proofs to prevent double voting
 
-### 3.7 User Interface
+### 3.6 User Interface
 - Create user-friendly interfaces for proposal submission, voting, and result viewing
 - Ensure accessibility across various devices and platforms
 
