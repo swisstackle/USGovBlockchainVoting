@@ -4,7 +4,7 @@
 
 Current voting in the United States is A) too slow and B) too insecure and easy breachable by different parties.
 
-In an advanced democratic society, we would ideally have a system that let's us create, vote on and implement new proposals fast so that we can pivot and adapt quickly, as opposed to being stuck with not working laws and regulations for years.
+In an advanced democratic society, we would ideally have a system that let's us create, vote on and implement new proposals fast so that we can pivot and adapt quickly, as opposed to being stuck with non working laws and regulations for years.
 We should also aim to have voting that is immutable and not breachable by utilizing modern cryptographic techniques.
 
 This project aims to fix this.
