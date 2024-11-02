@@ -1,5 +1,15 @@
 # Comprehensive Proposal: Blockchain-Based Direct Democracy with Constitutional Safeguards, Rarimo Protocol, and Giza ZKML Integration
 
+## 1. Problem
+
+Current voting in the United States is A) too slow and B) too insecure and easy breachable by different parties.
+
+In an advanced democratic society, we would ideally have a system that let's us create, vote on and implement new proposals fast so that we can pivot and adapt quickly, as opposed to being stuck with not working laws and regulations for years.
+We should also aim to have voting that is immutable and not breachable by utilizing modern cryptographic techniques.
+
+This project aims to fix this.
+
+
 ## 1. Introduction
 
 This proposal outlines a blockchain-based direct democracy system that integrates constitutional safeguards, AI-assisted proposal screening using Giza's ZKML technology, and the Rarimo protocol's zero-knowledge passport technology. The goal is to create a transparent, secure, and efficient system for direct citizen participation in governance while protecting fundamental rights and preventing double voting.
