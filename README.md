@@ -24,7 +24,7 @@ This proposal outlines a blockchain-based direct democracy system that integrate
 - Use zero-knowledge proofs to verify voter eligibility without revealing personal information
 
 ### 2.5 RariMe Mobile App
-- Utilize the RariMe app for passport scanning and secure data storage
+- Utilize the RariMe app for passport scanning and local passport data storage
 - Generate zero-knowledge proofs of identity for voting and proposal submission
 
 ### 2.6 Voting Mechanism
@@ -83,24 +83,14 @@ This proposal outlines a blockchain-based direct democracy system that integrate
 11. Gather feedback and make necessary adjustments
 12. Gradually scale up implementation
 
-## 5. Security Considerations
+## 5. Challenges and Considerations
 
-- Implement robust encryption for all data transmissions
-- Ensure the security of the RariMe app and local data storage
-- Regularly update the zero-knowledge circuits to address potential vulnerabilities
-- Conduct ongoing security audits of the entire system
-- Verify the integrity of blockchain-deployed LLMs using Giza ZKML
-
-## 6. Challenges and Considerations
-
-- Ensuring digital inclusion and accessibility for all citizens
+- Ensuring digital inclusion and accessibility for all citizens. Possibly through Starlink.
 - Balancing efficiency of AI screening with need for human oversight
-- Protecting against potential manipulation or abuse of the system
 - Educating citizens on how to use the system effectively
 - Handling complex legal and constitutional interpretations
 - Complying with various electoral laws and regulations across jurisdictions
 - Balancing transparency with voter privacy
-- Managing the computational resources required for blockchain-based LLMs
 
 ## 7. Conclusion
 
