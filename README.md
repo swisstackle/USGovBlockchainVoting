@@ -1,4 +1,4 @@
-# Comprehensive Proposal: Blockchain-Based Direct Democracy with Constitutional Safeguards, Rarimo Protocol, and Giza ZKML Integration
+# Blockchain-Based Direct Democracy with Constitutional Safeguards, Rarimo Protocol, and Giza ZKML Integration
 
 ## 1. Problem
 
