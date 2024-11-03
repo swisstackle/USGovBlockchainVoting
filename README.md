@@ -76,7 +76,7 @@ This proposal outlines a blockchain-based direct democracy system that integrate
 
 ## 5. Challenges and Considerations
 
-- Ensuring digital inclusion and accessibility for all citizens. Possibly through Starlink.
+- Ensuring digital inclusion and accessibility for all citizens. Possibly through Starlink and gov program that funds laptops or devices for people in poverty.
 - Balancing efficiency of AI screening with need for human oversight
 - Educating citizens on how to use the system effectively
 - Handling complex legal and constitutional interpretations
