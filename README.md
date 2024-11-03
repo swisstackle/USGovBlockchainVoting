@@ -81,7 +81,6 @@ This proposal outlines a blockchain-based direct democracy system that integrate
 - Educating citizens on how to use the system effectively
 - Handling complex legal and constitutional interpretations
 - Complying with various electoral laws and regulations across jurisdictions
-- Balancing transparency with voter privacy
 
 ## 7. Conclusion
 
