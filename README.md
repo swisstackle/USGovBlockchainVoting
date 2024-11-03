@@ -82,7 +82,7 @@ This proposal outlines a blockchain-based direct democracy system that integrate
 - Handling complex legal and constitutional interpretations
 - Complying with various electoral laws and regulations across jurisdictions
 
-## 7. Conclusion
+## 6. Conclusion
 
 This comprehensive blockchain-based direct democracy system aims to empower citizens with direct participation in governance while maintaining strong constitutional protections and ensuring voter privacy. By leveraging the Rarimo protocol, Giza's ZKML technology, zero-knowledge proofs, and carefully designed voting mechanisms, we can create a more transparent, responsive, and secure democratic process for the digital age.
 
